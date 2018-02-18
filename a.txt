@@ -1,1 +1,5 @@
-a file 
+a file
+
+append content
+
+modified after tag v1.0
